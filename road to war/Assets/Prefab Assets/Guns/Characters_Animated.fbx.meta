@@ -1,0 +1,2500 @@
+fileFormatVersion: 2
+guid: a7f7cb21f307f4b59937070a2751037e
+timeCreated: 1433888518
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: China_General_Ho_Chi_Minh_mesh
+    100004: China_Kungfu_Soldier_mesh
+    100006: China_Typical_Soldier_mesh
+    100008: Germany_Goebels_mesh
+    100010: Germany_Soldier_mesh
+    100012: Germany_SS_Gestapo_Soldier_mesh
+    100014: Hitler_mesh
+    100016: Japan_Ninja_mesh
+    100018: Minigun
+    100020: North_Korean_Soldier_Red_Flag_Unit_mesh
+    100022: Obj_Granade
+    100024: Pistol
+    100026: Rifle
+    100028: Rig_Sbone_Base
+    100030: Rocket_Launcher
+    100032: Rusian_Bear_mesh
+    100034: Sbone_Granade
+    100036: Sbone_Granade_eff
+    100038: Sbone_head
+    100040: Sbone_head_eff
+    100042: Sbone_Launcher
+    100044: Sbone_Launcher_eff
+    100046: Sbone_Lbicepso
+    100048: Sbone_Lcalf
+    100050: Sbone_Lcalf_eff
+    100052: Sbone_Lfingers
+    100054: Sbone_Lfingers_eff
+    100056: Sbone_Lfoot
+    100058: Sbone_Lfoot_eff
+    100060: Sbone_Lforearm
+    100062: Sbone_Lpalm
+    100064: Sbone_Lshoulder
+    100066: Sbone_Lthumb
+    100068: Sbone_Lthumb_eff
+    100070: Sbone_Ltight
+    100072: Sbone_Minigun
+    100074: Sbone_Minigun_barrel
+    100076: Sbone_Minigun_barrel_eff
+    100078: Sbone_Minigun_eff
+    100080: Sbone_neckz
+    100082: Sbone_pelvis
+    100084: Sbone_Pistol
+    100086: Sbone_Pistol_eff
+    100088: Sbone_Rbiceps
+    100090: Sbone_Rbiceps_eff
+    100092: Sbone_Rcalfz
+    100094: Sbone_Rfingers
+    100096: Sbone_Rfingers_eff
+    100098: Sbone_Rfoot
+    100100: Sbone_Rfoot_eff
+    100102: Sbone_Rforearm
+    100104: Sbone_Rifle
+    100106: Sbone_Rifle_eff
+    100108: Sbone_Rocket
+    100110: Sbone_Rocket_eff
+    100112: Sbone_Rpalm
+    100114: Sbone_Rshoulder
+    100116: Sbone_Rthumb
+    100118: Sbone_Rthumb_eff
+    100120: Sbone_Rtight
+    100122: Sbone_spine
+    100124: Sbone_torso
+    100126: Stalin_mesh
+    100128: USA_Black_Soldier_mesh
+    100130: USA_Eisenhauer_mesh
+    100132: USA_typical_Soldier_mesh
+    400000: //RootNode
+    400002: China_General_Ho_Chi_Minh_mesh
+    400004: China_Kungfu_Soldier_mesh
+    400006: China_Typical_Soldier_mesh
+    400008: Germany_Goebels_mesh
+    400010: Germany_Soldier_mesh
+    400012: Germany_SS_Gestapo_Soldier_mesh
+    400014: Hitler_mesh
+    400016: Japan_Ninja_mesh
+    400018: Minigun
+    400020: North_Korean_Soldier_Red_Flag_Unit_mesh
+    400022: Obj_Granade
+    400024: Pistol
+    400026: Rifle
+    400028: Rig_Sbone_Base
+    400030: Rocket_Launcher
+    400032: Rusian_Bear_mesh
+    400034: Sbone_Granade
+    400036: Sbone_Granade_eff
+    400038: Sbone_head
+    400040: Sbone_head_eff
+    400042: Sbone_Launcher
+    400044: Sbone_Launcher_eff
+    400046: Sbone_Lbicepso
+    400048: Sbone_Lcalf
+    400050: Sbone_Lcalf_eff
+    400052: Sbone_Lfingers
+    400054: Sbone_Lfingers_eff
+    400056: Sbone_Lfoot
+    400058: Sbone_Lfoot_eff
+    400060: Sbone_Lforearm
+    400062: Sbone_Lpalm
+    400064: Sbone_Lshoulder
+    400066: Sbone_Lthumb
+    400068: Sbone_Lthumb_eff
+    400070: Sbone_Ltight
+    400072: Sbone_Minigun
+    400074: Sbone_Minigun_barrel
+    400076: Sbone_Minigun_barrel_eff
+    400078: Sbone_Minigun_eff
+    400080: Sbone_neckz
+    400082: Sbone_pelvis
+    400084: Sbone_Pistol
+    400086: Sbone_Pistol_eff
+    400088: Sbone_Rbiceps
+    400090: Sbone_Rbiceps_eff
+    400092: Sbone_Rcalfz
+    400094: Sbone_Rfingers
+    400096: Sbone_Rfingers_eff
+    400098: Sbone_Rfoot
+    400100: Sbone_Rfoot_eff
+    400102: Sbone_Rforearm
+    400104: Sbone_Rifle
+    400106: Sbone_Rifle_eff
+    400108: Sbone_Rocket
+    400110: Sbone_Rocket_eff
+    400112: Sbone_Rpalm
+    400114: Sbone_Rshoulder
+    400116: Sbone_Rthumb
+    400118: Sbone_Rthumb_eff
+    400120: Sbone_Rtight
+    400122: Sbone_spine
+    400124: Sbone_torso
+    400126: Stalin_mesh
+    400128: USA_Black_Soldier_mesh
+    400130: USA_Eisenhauer_mesh
+    400132: USA_typical_Soldier_mesh
+    4300000: Obj_Granade
+    4300002: Pistol
+    4300004: Rocket_Launcher
+    4300006: Rifle
+    4300008: Minigun
+    4300010: USA_Black_Soldier_mesh
+    4300012: China_Typical_Soldier_mesh
+    4300014: USA_typical_Soldier_mesh
+    4300016: Rusian_Bear_mesh
+    4300018: Hitler_mesh
+    4300020: Germany_Goebels_mesh
+    4300022: North_Korean_Soldier_Red_Flag_Unit_mesh
+    4300024: Stalin_mesh
+    4300026: Germany_Soldier_mesh
+    4300028: USA_Eisenhauer_mesh
+    4300030: Germany_SS_Gestapo_Soldier_mesh
+    4300032: Japan_Ninja_mesh
+    4300034: China_General_Ho_Chi_Minh_mesh
+    4300036: China_Kungfu_Soldier_mesh
+    7400000: Take 001
+    7400002: walk
+    7400004: Idle
+    7400006: hurt
+    7400008: death
+    7400010: pistol
+    7400012: rpg
+    7400014: ak47
+    7400016: battlerifle
+    7400018: machinegun
+    7400020: gernade
+    7400022: losetaunt
+    7400024: taunt
+    7400026: nothappytrunt
+    7400028: wintaunt
+    9500000: //RootNode
+    13700000: China_General_Ho_Chi_Minh_mesh
+    13700002: China_Kungfu_Soldier_mesh
+    13700004: China_Typical_Soldier_mesh
+    13700006: Germany_Goebels_mesh
+    13700008: Germany_Soldier_mesh
+    13700010: Germany_SS_Gestapo_Soldier_mesh
+    13700012: Hitler_mesh
+    13700014: Japan_Ninja_mesh
+    13700016: Minigun
+    13700018: North_Korean_Soldier_Red_Flag_Unit_mesh
+    13700020: Obj_Granade
+    13700022: Pistol
+    13700024: Rifle
+    13700026: Rocket_Launcher
+    13700028: Rusian_Bear_mesh
+    13700030: Stalin_mesh
+    13700032: USA_Black_Soldier_mesh
+    13700034: USA_Eisenhauer_mesh
+    13700036: USA_typical_Soldier_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 212
+      lastFrame: 245
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hurt
+      takeName: Take 001
+      firstFrame: 259
+      lastFrame: 259
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 268
+      lastFrame: 321
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: pistol
+      takeName: Take 001
+      firstFrame: 340
+      lastFrame: 411
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ak47
+      takeName: Take 001
+      firstFrame: 405
+      lastFrame: 454
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: rpg
+      takeName: Take 001
+      firstFrame: 470
+      lastFrame: 557
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: battlerifle
+      takeName: Take 001
+      firstFrame: 554
+      lastFrame: 629
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: machinegun
+      takeName: Take 001
+      firstFrame: 622
+      lastFrame: 622
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gernade
+      takeName: Take 001
+      firstFrame: 746
+      lastFrame: 798
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: losetaunt
+      takeName: Take 001
+      firstFrame: 809
+      lastFrame: 901
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: taunt
+      takeName: Take 001
+      firstFrame: 903
+      lastFrame: 995
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: nothappytrunt
+      takeName: Take 001
+      firstFrame: 1018
+      lastFrame: 1143
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: wintaunt
+      takeName: Take 001
+      firstFrame: 1141
+      lastFrame: 1250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Sbone_Base
+        weight: 1
+      - path: Rig_Sbone_Base/China_General_Ho_Chi_Minh_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Kungfu_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/China_Typical_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Goebels_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Germany_SS_Gestapo_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Hitler_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Japan_Ninja_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/North_Korean_Soldier_Red_Flag_Unit_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Obj_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Rocket_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Rusian_Bear_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lcalf/Sbone_Lcalf_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Ltight/Sbone_Lfoot/Sbone_Lfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_Rtight/Sbone_Rcalfz/Sbone_Rfoot/Sbone_Rfoot_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lfingers/Sbone_Lfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Lshoulder/Sbone_Lbicepso/Sbone_Lforearm/Sbone_Lpalm/Sbone_Lthumb/Sbone_Lthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_neckz/Sbone_head/Sbone_head_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rbiceps/Sbone_Rbiceps_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Granade/Sbone_Granade_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Launcher/Sbone_Launcher_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun/Sbone_Minigun_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Minigun_barrel/Sbone_Minigun_barrel_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Pistol/Sbone_Pistol_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rfingers/Sbone_Rfingers_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rifle/Sbone_Rifle_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rocket/Sbone_Rocket_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb
+        weight: 1
+      - path: Rig_Sbone_Base/Sbone_pelvis/Sbone_spine/Sbone_torso/Sbone_Rshoulder/Sbone_Rforearm/Sbone_Rpalm/Sbone_Rthumb/Sbone_Rthumb_eff
+        weight: 1
+      - path: Rig_Sbone_Base/Stalin_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Black_Soldier_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_Eisenhauer_mesh
+        weight: 1
+      - path: Rig_Sbone_Base/USA_typical_Soldier_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
