@@ -19,7 +19,7 @@ public class followTarget : MonoBehaviour {
 	public FSM player2;
 	public FSM player3;
 
-	float smoothTime = 1f;    // time for dampen
+	float smoothTime = 0.1f;    // time for dampen
 	public bool cameraFollowX = true; // camera follows on horizontal
 	public bool cameraFollowY = true; // camera follows on vertical
 	public bool cameraFollowHeight = true; // camera follow CameraTarget object height
@@ -74,7 +74,7 @@ public class followTarget : MonoBehaviour {
 		
 		if (cameraFollowY)
 		{
-			thisTransform.transform.position = new Vector3(thisTransform.position.x, thisTransform.position.y, Mathf.SmoothDamp(thisTransform.position.z, cameraTarget.transform.position.z, ref velocity.z, smoothTime));
+			thisTransform.transform.position = new Vector3(thisTransform.position.x, thisTransform.position.y, Mathf.SmoothDamp(thisTransform.position.z, cameraTarget.transform.position.z-20, ref velocity.z, smoothTime));
 		}
 		if (!cameraFollowX & cameraFollowHeight)
 		{
@@ -92,7 +92,7 @@ public class followTarget : MonoBehaviour {
 		
 		if (cameraFollowY)
 		{
-			thisTransform.transform.position = new Vector3(thisTransform.position.x, thisTransform.position.y, Mathf.SmoothDamp(thisTransform.position.z, cameraTarget2.transform.position.z, ref velocity.z, smoothTime));
+			thisTransform.transform.position = new Vector3(thisTransform.position.x, thisTransform.position.y, Mathf.SmoothDamp(thisTransform.position.z, cameraTarget2.transform.position.z-20, ref velocity.z, smoothTime));
 		}
 		if (!cameraFollowX & cameraFollowHeight)
 		{
@@ -111,7 +111,7 @@ public class followTarget : MonoBehaviour {
 		
 		if (cameraFollowY)
 		{
-			thisTransform.transform.position = new Vector3(thisTransform.position.x, thisTransform.position.y, Mathf.SmoothDamp(thisTransform.position.z, cameraTarget3.transform.position.z, ref velocity.z, smoothTime));
+			thisTransform.transform.position = new Vector3(thisTransform.position.x, thisTransform.position.y, Mathf.SmoothDamp(thisTransform.position.z, cameraTarget3.transform.position.z-20, ref velocity.z, smoothTime));
 		}
 		if (!cameraFollowX & cameraFollowHeight)
 		{

@@ -5,7 +5,9 @@ using System.Collections.Generic;
 
 public class ItemSelection : MonoBehaviour {
 
+	public float rotateVelocity=7333.2f;
 	public GameObject[] WeaponRange;
+	public GameObject redline;
 	public  Image[] ImageSelection;
 	public  List<Sprite> ItemList= new List<Sprite>();
 	private  int itemSpot=0;
@@ -17,10 +19,10 @@ public class ItemSelection : MonoBehaviour {
 	private int z=0;
 	public static bool check=false;
 	private bool deactivated = false;
-
+	private bool Rotation;
 	void Awake(){
 		//WeaponRange = new GameObject[4];
-
+		redline.SetActive(false);
 		num_weapon = new int[4];
 		instance = this;
 		for(int y =0;y<=3;y++)
@@ -37,7 +39,8 @@ public class ItemSelection : MonoBehaviour {
 		i++;
 	}
 	void Update(){
-
+		if(Rotation)
+			redline.transform.RotateAround(FSM.playerPos, Vector3.up, rotateVelocity * Time.deltaTime*100);
 		if (!check) {
 		
 			for(z=0;z<=3;z++){
@@ -55,6 +58,7 @@ public class ItemSelection : MonoBehaviour {
 //		else
 		if (PickUpWeapon.picked) {
 			if (check) {
+				//redline.SetActive(true);
 				Deactivate (0);
 				check = false;
 				FSM.once = true;
@@ -102,20 +106,29 @@ public class ItemSelection : MonoBehaviour {
 		if (wNum == 0) {
 
 			ShowRange(wNum);
+			redline.SetActive(true);
+			redline.transform.RotateAround(FSM.playerPos, Vector3.right, rotateVelocity * Time.deltaTime);
 			Debug.Log ("1st weapon equipped");
 			WeaponSelected=1;
 			check = true;
 		} else if (wNum == 1) {
+			redline.SetActive(true);
+			redline.transform.RotateAround(FSM.playerPos, Vector3.right, rotateVelocity * Time.deltaTime);
 			ShowRange(wNum);
 			Debug.Log ("2nd weapon equipped");
 			WeaponSelected=2;
 			check = true;
 		} else if (wNum == 2) {
+			redline.SetActive(true);
+			redline.transform.RotateAround(FSM.playerPos, Vector3.right, rotateVelocity * Time.deltaTime);
 			ShowRange(wNum);
 			Debug.Log ("3rd weapon equipped");
 			WeaponSelected=3;
 			check = true;
 		} else if (wNum == 3) {
+			redline.SetActive(true);
+			Rotation=true;
+
 			ShowRange(wNum);
 			Debug.Log ("4th weapon equipped");
 			WeaponSelected=4;
@@ -142,6 +155,7 @@ public class ItemSelection : MonoBehaviour {
 
 		for(int i =0;i<=3;i++)
 		{
+			redline.SetActive(false);
 			WeaponRange[i].SetActive (false);
 		}
 		deactivated = true;
