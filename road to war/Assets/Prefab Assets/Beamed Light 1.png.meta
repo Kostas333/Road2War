@@ -1,12 +1,9 @@
 fileFormatVersion: 2
-guid: f9ece2ee87256c04c8ef84b9bccbc282
-timeCreated: 1448993002
+guid: 49e3c25a609c2de4a8edc85806da4483
+timeCreated: 1448997213
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: assets_0
-    21300002: assets_1
-    21300004: assets_2
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -33,55 +30,25 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: 16
+    aniso: -1
     mipBias: -1
-    wrapMode: 1
-  nPOTScale: 0
+    wrapMode: -1
+  nPOTScale: 1
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 0
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
-  alphaIsTransparency: 1
-  textureType: 8
+  alphaIsTransparency: 0
+  textureType: -1
   buildTargetSettings: []
   spriteSheet:
-    sprites:
-    - name: assets_0
-      rect:
-        serializedVersion: 2
-        x: 488
-        y: 527
-        width: 156
-        height: 150
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: assets_1
-      rect:
-        serializedVersion: 2
-        x: 646
-        y: 547
-        width: 169
-        height: 128
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: assets_2
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 538
-        width: 455
-        height: 167
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+    sprites: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

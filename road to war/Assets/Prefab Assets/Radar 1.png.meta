@@ -1,12 +1,10 @@
 fileFormatVersion: 2
-guid: f9ece2ee87256c04c8ef84b9bccbc282
-timeCreated: 1448993002
+guid: e55ed1e24859fad4384a3b66f47f7a9c
+timeCreated: 1448997813
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: assets_0
-    21300002: assets_1
-    21300004: assets_2
+    21300000: Radar 1_0
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -52,33 +50,13 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: assets_0
+    - name: Radar 1_0
       rect:
         serializedVersion: 2
-        x: 488
-        y: 527
-        width: 156
-        height: 150
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: assets_1
-      rect:
-        serializedVersion: 2
-        x: 646
-        y: 547
-        width: 169
-        height: 128
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: assets_2
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 538
-        width: 455
-        height: 167
+        x: 54
+        y: 109
+        width: 578
+        height: 565
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
