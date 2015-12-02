@@ -46,6 +46,7 @@ public class ItemSelection : MonoBehaviour {
 			for(z=0;z<=3;z++){
 
 				WeaponRange[z].SetActive(false);
+				redline.SetActive(false);
 			}
 		
 		}
@@ -144,6 +145,7 @@ public class ItemSelection : MonoBehaviour {
 		for(int i =0;i<=3;i++)
 		{
 			WeaponRange[i].SetActive (false);
+			//redline.SetActive(false);
 		}
 		WeaponRange[rNum].SetActive (true);
 
