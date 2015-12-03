@@ -11,5 +11,6 @@ public class NoRotation : MonoBehaviour {
 	void LateUpdate()
 	{
 		transform.rotation = rotation;
+
 	}
 }
