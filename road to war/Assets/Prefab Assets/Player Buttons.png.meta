@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: da8e00c1cc61a96438ed15bfdd0d9684
+timeCreated: 1449256859
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player Buttons_0
+    21300002: Player Buttons_1
+    21300004: Player Buttons_2
+    21300006: Player Buttons_3
+    21300008: Player Buttons_4
+    21300010: Player Buttons_5
+    21300012: Player Buttons_6
+    21300014: Player Buttons_7
+    21300016: Player Buttons_8
+    21300018: Player Buttons_9
+    21300020: Player Buttons_10
+    21300022: Player Buttons_11
+    21300024: Player Buttons_12
+    21300026: Player Buttons_13
+    21300028: Player Buttons_14
+    21300030: Player Buttons_15
+    21300032: Player Buttons_16
+    21300034: Player Buttons_17
+    21300036: Player Buttons_18
+    21300038: Player Buttons_19
+    21300040: Player Buttons_20
+    21300042: Player Buttons_21
+    21300044: Player Buttons_22
+    21300046: Player Buttons_23
+    21300048: Player Buttons_24
+    21300050: Player Buttons_25
+    21300052: Player Buttons_26
+    21300054: Player Buttons_27
+    21300056: Player Buttons_28
+    21300058: Player Buttons_29
+    21300060: Player Buttons_30
+    21300062: Player Buttons_31
+    21300064: Player Buttons_32
+    21300066: Player Buttons_33
+    21300068: Player Buttons_34
+    21300070: Player Buttons_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 864
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 866
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 866
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 866
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 866
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 866
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 719
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 721
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 721
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 721
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 721
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 721
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 571
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 573
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 573
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 573
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_16
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 573
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_17
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 426
+        width: 134
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 424
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 426
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 426
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 426
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 426
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 279
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 281
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 281
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_26
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 281
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 281
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 236
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_29
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 236
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 75
+        width: 137
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 190
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 72
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 82
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 85
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Buttons_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 85
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

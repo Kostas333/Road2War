@@ -11,6 +11,7 @@ public class thunder : MonoBehaviour {
 	AudioSource audio;
 	// Use this for initialization
 	void Start () {
+		gameObject.SetActive (true);
 		audio = GetComponent<AudioSource>();
 	}
 	void Update () {
