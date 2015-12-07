@@ -79,9 +79,9 @@ public class FSM : MonoBehaviour {
 	void Update () {
 
 		playerPosition = transform.position;
-//		if (!canmove) {
-//			return;
-//		}
+		if (!canmove) {
+			return;
+		}
 		//Time.timeScale = 0;
 		if (Parol.GameOver) {
 			ActiveState = StateType.DEAD;
